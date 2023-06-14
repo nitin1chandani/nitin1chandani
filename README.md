@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/nitinchand18162" target="blank"><img src="https://img.shields.io/twitter/follow/nitinchand18162?logo=twitter&style=for-the-badge" alt="nitinchand18162" /></a> </p>
 
-- 🌱 I’m currently learning **App Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://nitinchandani.netlify.app/](https://nitinchandani.netlify.app/)
 
